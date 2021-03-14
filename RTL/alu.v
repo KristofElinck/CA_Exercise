@@ -7,7 +7,8 @@
 //shf_amnt (5 bits): Number of bits to shift for a shift instruction.
 //Outputs:
 //alu_out (16 bits): Result of the arithmetic or logical operation.
-//zero_flag: If the result of the ALU is zero this signal is asserted.
+//zero_flag: If the result of the ALU is zero this signal is asserted. 
+//test
 
 
 module alu #(
